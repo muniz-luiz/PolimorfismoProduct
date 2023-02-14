@@ -32,7 +32,7 @@ namespace PolimorfismoProduto.Entities
         {
             return base.Name
                 + " R$ "
-                + "(Customs fee: R$ " + CustomsFee.SToString("F2", CultureInfo.InvariantCulture) + " )"; 
+                + "(Customs fee: R$ " + CustomsFee.ToString("F2", CultureInfo.InvariantCulture) + " )"; 
         }
 
         

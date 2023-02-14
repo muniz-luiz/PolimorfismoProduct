@@ -1,0 +1,15 @@
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\obj\Debug\net7.0\PolimorfismoProduto.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\obj\Debug\net7.0\PolimorfismoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\obj\Debug\net7.0\PolimorfismoProduto.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\obj\Debug\net7.0\PolimorfismoProduto.AssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\obj\Debug\net7.0\PolimorfismoProduto.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\bin\Debug\net7.0\PolimorfismoProduto.exe
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\bin\Debug\net7.0\PolimorfismoProduto.deps.json
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\bin\Debug\net7.0\PolimorfismoProduto.runtimeconfig.json
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\bin\Debug\net7.0\PolimorfismoProduto.dll
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\bin\Debug\net7.0\PolimorfismoProduto.pdb
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\obj\Debug\net7.0\PolimorfismoProduto.dll
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\obj\Debug\net7.0\refint\PolimorfismoProduto.dll
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\obj\Debug\net7.0\PolimorfismoProduto.pdb
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\obj\Debug\net7.0\PolimorfismoProduto.genruntimeconfig.cache
+C:\Users\EDUARDO\Documents\C# Programming\PolimorfismoProduto\PolimorfismoProduto\obj\Debug\net7.0\ref\PolimorfismoProduto.dll
